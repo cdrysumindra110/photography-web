@@ -65,7 +65,7 @@ h3 {
 
 .text-overlay h2,
 .text-overlay .date,
-.text-overlay .excerpt,{
+.text-overlay .excerpt{
     margin: 0;
     margin-bottom: 10px;
 }
